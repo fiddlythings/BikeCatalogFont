@@ -2,7 +2,7 @@
 
 Remember Bike Nashbar, the mail-order/online bike gear discounter that always seemed to have amazing deals on last year's surplus?  Nashbar is long gone, but it's far from forgotten.
 
-**Bike Catalog** is a bauhaus/blippo-esque, heavy, rounded geometric display typeface revived from the vintage **Bike Nashbar / Bike Warehouse** mail-order catalog logotype. Lowercase-only, primarily built for recreating decals and other bike-related graphics, and traced directly from catalog scans wherever possible.
+**Bike Catalog** is a Bauhaus/Blippo-esque, heavy, rounded geometric display typeface revived from the vintage **Bike Nashbar / Bike Warehouse** mail-order catalog logotype. Lowercase-only, primarily built for recreating decals and other bike-related graphics, and traced directly from catalog scans wherever possible.
 
 Ships in three spacing cuts drawn from one set of outlines.
 
@@ -19,6 +19,9 @@ Ships in three spacing cuts drawn from one set of outlines.
 The glyph shapes are **identical** across all three. Only the optical spacing, word space, and kerning step down. They are three separate font families, so they coexist in the font menu without conflict.
 
 ---
+
+## Type Specimen
+![Font Specimen](BikeCatalog-specimen.png)
 
 ## What's in the box
 
