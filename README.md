@@ -1,6 +1,8 @@
 # Bike Catalog
 
-A heavy, rounded geometric display typeface revived from the vintage **Bike Nashbar / Bike Warehouse** mail-order catalog logotype. Lowercase-only, primarily built for decals and bike-related graphics.
+Remember Bike Nashbar, the mail-order/online bike gear discounter that always seemed to have amazing deals on last year's surplus?  Nashbar is long gone, but it's far from forgotten.
+
+**Bike Catalog** is a bauhaus/blippo-esque, heavy, rounded geometric display typeface revived from the vintage **Bike Nashbar / Bike Warehouse** mail-order catalog logotype. Lowercase-only, primarily built for recreating decals and other bike-related graphics, and traced directly from catalog scans wherever possible.
 
 Ships in three spacing cuts drawn from one set of outlines.
 
@@ -100,7 +102,7 @@ Outlines were produced by tracing specimen scans with a `potrace → FontForge` 
 
 ## Provenance & license
 
-Typeface *designs* are not subject to copyright (only the specific font software/binary is). **Bike Catalog** is an independent revival: new outline data traced from owned catalog scans of the historic Bike Nashbar / Bike Warehouse logotype, not extracted from any commercial font.
+**Bike Catalog** is an independent revival: New outlines traced from old Nashbar and Bike Warehouse catalogs and not extracted from any commercial font.    Typeface *designs* are not subject to copyright (only the specific font software/binary is).  That said, it is not my intent to tread on anyone else's art; my goal is simply to revive the now-defunct Nashbar aesthetic for rehabbing old gear.
 
 
 ---
