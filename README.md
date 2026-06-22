@@ -6,6 +6,8 @@ Remember Bike Nashbar, the mail-order/online bike gear discounter that always se
 
 Ships in three spacing cuts drawn from one set of outlines.
 
+Note:  I absolutely used the assistance of LLMs in this process, tracing is boring.
+
 ---
 
 ## The three cuts
